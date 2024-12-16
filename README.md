@@ -1,1 +1,1 @@
-# Calculator-app
+This is a simple calculator application built using Python and the Tkinter library. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division through a user-friendly graphical user interface (GUI).# Calculator-app
